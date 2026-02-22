@@ -38,7 +38,7 @@ SEMANA-10/
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 - Agregar productos
 - Actualizar productos
