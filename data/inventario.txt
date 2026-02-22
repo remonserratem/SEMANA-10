@@ -1,0 +1,4 @@
+123,Laptop,10,850.5
+456,Mouse,25,15.99
+124,Memoria ssd,50,90.0
+125,Galaxy s23 ultra,10,540.0
