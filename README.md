@@ -1,4 +1,5 @@
-# 📦 Sistema de Gestión de Inventarios
+#  Sistema de Gestión de Inventarios
+## Nombre: Roxana Monserrate
 
 ## Descripción
 
@@ -6,7 +7,7 @@ Este proyecto implementa un Sistema de Gestión de Inventarios en Python que per
 
 El sistema almacena la información en un archivo de texto (`inventario.txt`).
 
----
+
 
 ##  Objetivo
 
@@ -18,7 +19,7 @@ Aplicar conceptos fundamentales de programación en Python como:
 - Manejo de excepciones
 - Control de versiones con Git
 
----
+
 
 ## Estructura del Proyecto
 SEMANA-10/
@@ -50,7 +51,6 @@ SEMANA-10/
   - PermissionError
   - Líneas corruptas
 
----
 
 ##  Arquitectura
 
@@ -65,6 +65,6 @@ Contiene la clase `InventarioService`, que maneja:
 - Lectura y escritura de archivos
 - Manejo de excepciones
 
-### 📁 data
+### data
 Contiene el archivo `inventario.txt` donde se almacenan los productos.
 
